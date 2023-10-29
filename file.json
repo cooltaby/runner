@@ -1,0 +1,25 @@
+{
+	"message": "Welcome back to home of beauty ",
+	"data": {
+		"id": 42,
+		"name": "User1144",
+		"email": "zzzzzzzzzz@gmail.com",
+		"phone_no": "0678646734564564",
+		"image": "default.png",
+		"address": null,
+		"nationality": "Egypt",
+		"gender": "male",
+		"dateofbirth": "2022-10-12 00:00:00",
+		"device_token": null,
+		"status": 1,
+		"liked_salon": [
+			""
+		],
+		"OTP": "",
+		"noti": 1,
+		"verified": 1,
+		"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNmY3M2MyMWEzMzFjZWQ2NDFiNmNlNzU4NDQzN2MzYTk2OGVmYWE4ZTEwOTI2MzRhZjlmNzhiOGVmYWI5MTg3NmJjYjhiNGQyMDM4Y2Y3ZTgiLCJpYXQiOjE2NjYwMTgwMzQsIm5iZiI6MTY2NjAxODAzNCwiZXhwIjoxNjk3NTU0MDM0LCJzdWIiOiI0MiIsInNjb3BlcyI6W119.dSvAjgrv7gaJkR-hFas5ejQUA396mSuqxtbi275UbJk3UAoruba3MRSKOEbwpz7yJhX-57RJmL4qsPnJ20zhk97_s-yIxGAGzC9dCoNIn1HgHLoMUosP2Wztp5iqcZw55P1QDZCsRN5j_PQ44VX_o7DgJXfRbJRMs5ALeB8N21RWrBUp_ScMRBa-IyqmArlTbxwrzDGcacy6ImO0Rb3E_Vedj-BZ5rgMbsjTbMTyWtEo4OCf3_NkLDHZFj2-1bfHc9AhTgI3k6MTzaYjsBUGDEz8bQazewoWIpcZPVGH1deDTaTiVUDdAQA8ZCTczBSiA-4tcrvlj1oh4w9qBTk432J_ghmwK8OE0dyTb5OQEkraqKEoqcgjPBhjAFKZnJOGzo4hl_vrs317LWZqCPCftY2OHoBaLfcDnFotCxYp6DhJBFNvJwSWM_FQrz_jNXQcIb7GBdh1com87Hfbq-HL-n1XxJfQtzwqI9YYhNa1pLAtgWkzJypFRtxG_aCeNiTCrDsQ7IRX0ZtAYY0hlCmHjXB9VCm-arjuebEedNqSlpaAdOXfgBMAKm5l0pHgNalaenZEcLCCsCAWGNKMJy_HApripJd-tcn_DqwKUJJ4LzvhYLLMB2tvMfejCCKqDeEWeNwrTicG3lq1oMt-Ez2kHbieCqkzoLcrGx6Y96Xcp8o",
+		"imageUri": "https://test.elite-experts.net/upload/default.png"
+	},
+	"success": true
+}
